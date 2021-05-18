@@ -1,16 +1,7 @@
 ### Hi there 👋
 
+About Me:
 
+- 🔭 401 ------- You are Unauthorized to read this text
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on @theostrich
-- 🌱 I’m currently learning to live.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
