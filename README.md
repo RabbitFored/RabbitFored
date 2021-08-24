@@ -3,7 +3,7 @@
 
 🐙 About Me:
 
-- 🔭 401 ------- You are Unauthorized to read this text
+- 🔭 401 ------- You are not authorized to read this text
 
 ### 📊 Contribution Graph:
 
