@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![Hello world, I'm RabbitFoRed](https://github.com/RabbitFored/RabbitFored/assets/73241991/1280b038-8061-450c-8b38-61cfb5b84fdb)
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie aliquet mi, non feugiat lorem ultrices sed. Phasellus et nulla neque. Vivamus imperdiet ipsum a tortor tempor scelerisque. Praesent euismod sit amet tellus quis tempus. Aliquam tincidunt convallis ante eget tincidunt. Nulla facilisi. Duis vitae ante viverra, mattis diam quis, fringilla arcu.
 <br/><br/>
