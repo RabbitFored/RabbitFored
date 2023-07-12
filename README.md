@@ -2,7 +2,7 @@
 
 <img src="https://te.legra.ph/file/0bd6ea349ea9ed40322c9.jpg">
 
-🐙 About Me:
+### 🐙 About Me:
 
 - 🔭 401 ------- You are not authorized to read this text
 
@@ -17,5 +17,7 @@
 </p>
 
 -----------------------
+
 ### Donate
+
 <a href="https://ko-fi.com/rabbitfored"><img height="30" style="border:0px;height:30px;" align="center" alt="rabbitfored" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
