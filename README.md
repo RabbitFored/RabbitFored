@@ -11,7 +11,7 @@
 <p align="center">
     <img
         width="100%"
-        src="https://github-readme-stats.vercel.app/api?username=BXBotz&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=RabbitFored&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
 </p>
 
