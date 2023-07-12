@@ -1,7 +1,6 @@
 ### Hi there 👋
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <img width="100%" src="https://te.legra.ph/file/0bd6ea349ea9ed40322c9.jpg">
-
 ### 🐙 About Me:
 
 - 🔭 401 ------- You are not authorized to read this text
