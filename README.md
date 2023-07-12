@@ -27,5 +27,4 @@ Aenean mauris leo, semper et mauris sed, egestas facilisis est. Pellentesque id 
 -----------------------
 
 ### Donate
-
-<a href="https://ko-fi.com/rabbitfored"><img height="30" style="border:0px;height:30px;" align="center" alt="rabbitfored" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
+<a href='https://ko-fi.com/W7W25CQS4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='rabbitfored'/></a>
